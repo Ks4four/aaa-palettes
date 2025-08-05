@@ -1,0 +1,113 @@
+{
+	"flavor": "mocha",
+	"Semantic": [
+		{
+			"Name": "Rosewater",
+			"Hex": "#f5e5e0"
+		},
+		{
+			"Name": "Flamingo",
+			"Hex": "#f2c9c0"
+		},
+		{
+			"Name": "Pink",
+			"Hex": "#ffb0c9"
+		},
+		{
+			"Name": "Mauve",
+			"Hex": "#b8a4ff"
+		},
+		{
+			"Name": "Red",
+			"Hex": "#FF442E"
+		},
+		{
+			"Name": "Maroon",
+			"Hex": "#B03A33"
+		},
+		{
+			"Name": "Peach",
+			"Hex": "#f7bd8f"
+		},
+		{
+			"Name": "Yellow",
+			"Hex": "#fcd912"
+		},
+		{
+			"Name": "Green",
+			"Hex": "#5ad641"
+		},
+		{
+			"Name": "Teal",
+			"Hex": "#5fb8a8"
+		},
+		{
+			"Name": "Sky",
+			"Hex": "#96d8d0"
+		},
+		{
+			"Name": "Sapphire",
+			"Hex": "#4d9fd0"
+		},
+		{
+			"Name": "Blue",
+			"Hex": "#3c8dd9"
+		},
+		{
+			"Name": "Lavender",
+			"Hex": "#a1c1ff"
+		}
+	],
+	"Text": [
+		{
+			"Name": "Text",
+			"Hex": "#e8e1cf"
+		},
+		{
+			"Name": "Subtext0",
+			"Hex": "#cdbe97"
+		},
+		{
+			"Name": "Subtext1",
+			"Hex": "#dacfb3"
+		}
+	],
+	"UI": [
+		{
+			"Name": "Base",
+			"Hex": "#1f2722"
+		},
+		{
+			"Name": "Mantle",
+			"Hex": "#181e1a"
+		},
+		{
+			"Name": "Crust",
+			"Hex": "#111513"
+		},
+		{
+			"Name": "Surface0",
+			"Hex": "#313d35"
+		},
+		{
+			"Name": "Surface1",
+			"Hex": "#435449"
+		},
+		{
+			"Name": "Surface2",
+			"Hex": "#556b5d"
+		},
+		{
+			"Name": "Overlay0",
+			"Hex": "#678171"
+		},
+		{
+			"Name": "Overlay1",
+			"Hex": "#7b9685"
+		},
+		{
+			"Name": "Overlay2",
+			"Hex": "#92a89a"
+		}
+	]
+}
