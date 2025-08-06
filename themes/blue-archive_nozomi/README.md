@@ -38,12 +38,12 @@ A picture (or two) used for color sampling.
 ## Porting How-Tos
  
 <details>
-<summary>Neovim example (Catppuccin latte)</summary>
+<summary>Neovim example (Catppuccin frappe)</summary>
 
 ```lua
 require("catppuccin").setup {
     color_overrides = {
-        latte = {
+        frappe = {
         rosewater= "#F5E0DC",
         flamingo = "#F2CDCD",
         pink     = "#F5C2E7",
