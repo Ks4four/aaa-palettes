@@ -44,7 +44,7 @@
 
   [![rosmontis-icon](themes/arknights_rosmontis/assets/icon.png)![rosmontis-strip](themes/arknights_rosmontis/assets/strip.png)](themes/arknights_rosmontis/README.md)
 
-- [Sussurro (Travel Freely)](themes/arknights_sussurro_travel-freely/README.md), Arknights; Light theme
+- [Sussurro (Travel Freely)](themes/arknights_sussurro_travel-freely/README.md), Arknights; Dark theme
 
   [![sussurro-travel-freely-icon](themes/arknights_sussurro_travel-freely/assets/icon.png)![sussurro-travel-freely-strip](themes/arknights_sussurro_travel-freely/assets/strip.png)](themes/arknights_sussurro_travel-freely/README.md)
 
