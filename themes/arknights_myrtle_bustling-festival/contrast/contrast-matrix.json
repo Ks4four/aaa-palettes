@@ -301,47 +301,47 @@
         },
         "Mauve": {
           "Base": {
-            "ratio": 2.52,
+            "ratio": 2.63,
             "pass_normal": true,
             "pass_strict": null
           },
           "Mantle": {
-            "ratio": 2.36,
+            "ratio": 2.47,
             "pass_normal": false,
             "pass_strict": null
           },
           "Crust": {
-            "ratio": 2.21,
+            "ratio": 2.31,
             "pass_normal": false,
             "pass_strict": null
           },
           "Surface0": {
-            "ratio": 1.93,
+            "ratio": 2.02,
             "pass_normal": false,
             "pass_strict": null
           },
           "Surface1": {
-            "ratio": 1.69,
+            "ratio": 1.77,
             "pass_normal": false,
             "pass_strict": null
           },
           "Surface2": {
-            "ratio": 1.46,
+            "ratio": 1.52,
             "pass_normal": false,
             "pass_strict": null
           },
           "Overlay0": {
-            "ratio": 1.26,
+            "ratio": 1.32,
             "pass_normal": false,
             "pass_strict": null
           },
           "Overlay1": {
-            "ratio": 1.08,
+            "ratio": 1.12,
             "pass_normal": false,
             "pass_strict": null
           },
           "Overlay2": {
-            "ratio": 1.16,
+            "ratio": 1.11,
             "pass_normal": false,
             "pass_strict": null
           }
@@ -841,7 +841,7 @@
             "pass_strict": null
           },
           "Mauve": {
-            "ratio": 1.0,
+            "ratio": 1.04,
             "pass_normal": null,
             "pass_strict": null
           },
@@ -913,7 +913,7 @@
             "pass_strict": null
           },
           "Mauve": {
-            "ratio": 1.01,
+            "ratio": 1.05,
             "pass_normal": null,
             "pass_strict": null
           },
@@ -985,7 +985,7 @@
             "pass_strict": null
           },
           "Mauve": {
-            "ratio": 1.0,
+            "ratio": 1.04,
             "pass_normal": null,
             "pass_strict": null
           },
@@ -1042,17 +1042,17 @@
         },
         "Mauve": {
           "Rosewater": {
-            "ratio": 1.0,
+            "ratio": 1.04,
             "pass_normal": null,
             "pass_strict": null
           },
           "Flamingo": {
-            "ratio": 1.01,
+            "ratio": 1.05,
             "pass_normal": null,
             "pass_strict": null
           },
           "Pink": {
-            "ratio": 1.0,
+            "ratio": 1.04,
             "pass_normal": null,
             "pass_strict": null
           },
@@ -1062,52 +1062,52 @@
             "pass_strict": null
           },
           "Red": {
-            "ratio": 1.1,
+            "ratio": 1.06,
             "pass_normal": null,
             "pass_strict": null
           },
           "Maroon": {
-            "ratio": 1.45,
+            "ratio": 1.39,
             "pass_normal": null,
             "pass_strict": null
           },
           "Peach": {
-            "ratio": 1.01,
+            "ratio": 1.04,
             "pass_normal": null,
             "pass_strict": null
           },
           "Yellow": {
-            "ratio": 1.0,
+            "ratio": 1.04,
             "pass_normal": null,
             "pass_strict": null
           },
           "Green": {
-            "ratio": 1.01,
+            "ratio": 1.03,
             "pass_normal": null,
             "pass_strict": null
           },
           "Teal": {
-            "ratio": 1.0,
+            "ratio": 1.04,
             "pass_normal": null,
             "pass_strict": null
           },
           "Sky": {
-            "ratio": 1.01,
+            "ratio": 1.05,
             "pass_normal": null,
             "pass_strict": null
           },
           "Sapphire": {
-            "ratio": 1.86,
+            "ratio": 1.78,
             "pass_normal": null,
             "pass_strict": null
           },
           "Blue": {
-            "ratio": 1.29,
+            "ratio": 1.23,
             "pass_normal": null,
             "pass_strict": null
           },
           "Lavender": {
-            "ratio": 1.0,
+            "ratio": 1.05,
             "pass_normal": null,
             "pass_strict": null
           }
@@ -1129,7 +1129,7 @@
             "pass_strict": null
           },
           "Mauve": {
-            "ratio": 1.1,
+            "ratio": 1.06,
             "pass_normal": null,
             "pass_strict": null
           },
@@ -1201,7 +1201,7 @@
             "pass_strict": null
           },
           "Mauve": {
-            "ratio": 1.45,
+            "ratio": 1.39,
             "pass_normal": null,
             "pass_strict": null
           },
@@ -1273,7 +1273,7 @@
             "pass_strict": null
           },
           "Mauve": {
-            "ratio": 1.01,
+            "ratio": 1.04,
             "pass_normal": null,
             "pass_strict": null
           },
@@ -1345,7 +1345,7 @@
             "pass_strict": null
           },
           "Mauve": {
-            "ratio": 1.0,
+            "ratio": 1.04,
             "pass_normal": null,
             "pass_strict": null
           },
@@ -1417,7 +1417,7 @@
             "pass_strict": null
           },
           "Mauve": {
-            "ratio": 1.01,
+            "ratio": 1.03,
             "pass_normal": null,
             "pass_strict": null
           },
@@ -1489,7 +1489,7 @@
             "pass_strict": null
           },
           "Mauve": {
-            "ratio": 1.0,
+            "ratio": 1.04,
             "pass_normal": null,
             "pass_strict": null
           },
@@ -1561,7 +1561,7 @@
             "pass_strict": null
           },
           "Mauve": {
-            "ratio": 1.01,
+            "ratio": 1.05,
             "pass_normal": null,
             "pass_strict": null
           },
@@ -1633,7 +1633,7 @@
             "pass_strict": null
           },
           "Mauve": {
-            "ratio": 1.86,
+            "ratio": 1.78,
             "pass_normal": null,
             "pass_strict": null
           },
@@ -1705,7 +1705,7 @@
             "pass_strict": null
           },
           "Mauve": {
-            "ratio": 1.29,
+            "ratio": 1.23,
             "pass_normal": null,
             "pass_strict": null
           },
@@ -1777,7 +1777,7 @@
             "pass_strict": null
           },
           "Mauve": {
-            "ratio": 1.0,
+            "ratio": 1.05,
             "pass_normal": null,
             "pass_strict": null
           },
