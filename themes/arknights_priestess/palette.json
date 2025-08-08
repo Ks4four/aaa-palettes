@@ -1,113 +1,113 @@
 {
-	"flavor": "macchiato",
-	"Semantic": [
-		{
-			"Name": "Rosewater",
-			"Hex": "#EFDDDA"
-		},
-		{
-			"Name": "Flamingo",
-			"Hex": "#E9CCCC"
-		},
-		{
-			"Name": "Pink",
-			"Hex": "#AF9FCE"
-		},
-		{
-			"Name": "Mauve",
-			"Hex": "#D5B3F8"
-		},
-		{
-			"Name": "Red",
-			"Hex": "#DD96A0"
-		},
-		{
-			"Name": "Maroon",
-			"Hex": "#E1A5AA"
-		},
-		{
-			"Name": "Peach",
-			"Hex": "#E3AE90"
-		},
-		{
-			"Name": "Yellow",
-			"Hex": "#E2CFAA"
-		},
-		{
-			"Name": "Green",
-			"Hex": "#ABCF9F"
-		},
-		{
-			"Name": "Teal",
-			"Hex": "#96C9C2"
-		},
-		{
-			"Name": "Sky",
-			"Hex": "#9DCED6"
-		},
-		{
-			"Name": "Sapphire",
-			"Hex": "#8CBED4"
-		},
-		{
-			"Name": "Blue",
-			"Hex": "#99B2E4"
-		},
-		{
-			"Name": "Lavender",
-			"Hex": "#C0C4EE"
-		}
-	],
-	"Text": [
-		{
-			"Name": "Text",
-			"Hex": "#DAD7D9"
-		},
-		{
-			"Name": "Subtext0",
-			"Hex": "#B2ACB0"
-		},
-		{
-			"Name": "Subtext1",
-			"Hex": "#C6C1C4"
-		}
-	],
-	"UI": [
-		{
-			"Name": "Base",
-			"Hex": "#140F15"
-		},
-		{
-			"Name": "Mantle",
-			"Hex": "#0B080C"
-		},
-		{
-			"Name": "Crust",
-			"Hex": "#030203"
-		},
-		{
-			"Name": "Surface0",
-			"Hex": "#2A1F2D"
-		},
-		{
-			"Name": "Surface1",
-			"Hex": "#413045"
-		},
-		{
-			"Name": "Surface2",
-			"Hex": "#553F5A"
-		},
-		{
-			"Name": "Overlay0",
-			"Hex": "#6C5072"
-		},
-		{
-			"Name": "Overlay1",
-			"Hex": "#82608A"
-		},
-		{
-			"Name": "Overlay2",
-			"Hex": "#97749E"
-		}
-	]
+    "flavor": "macchiato",
+    "semantic": [
+        {
+            "name": "rosewater",
+            "hex": "#efddda"
+        },
+        {
+            "name": "flamingo",
+            "hex": "#e9cccc"
+        },
+        {
+            "name": "pink",
+            "hex": "#af9fce"
+        },
+        {
+            "name": "mauve",
+            "hex": "#d5b3f8"
+        },
+        {
+            "name": "red",
+            "hex": "#dd96a0"
+        },
+        {
+            "name": "maroon",
+            "hex": "#e1a5aa"
+        },
+        {
+            "name": "peach",
+            "hex": "#e3ae90"
+        },
+        {
+            "name": "yellow",
+            "hex": "#e2cfaa"
+        },
+        {
+            "name": "green",
+            "hex": "#abcf9f"
+        },
+        {
+            "name": "teal",
+            "hex": "#96c9c2"
+        },
+        {
+            "name": "sky",
+            "hex": "#9dced6"
+        },
+        {
+            "name": "sapphire",
+            "hex": "#8cbed4"
+        },
+        {
+            "name": "blue",
+            "hex": "#99b2e4"
+        },
+        {
+            "name": "lavender",
+            "hex": "#c0c4ee"
+        }
+    ],
+    "text": [
+        {
+            "name": "text",
+            "hex": "#dad7d9"
+        },
+        {
+            "name": "subtext0",
+            "hex": "#b2acb0"
+        },
+        {
+            "name": "subtext1",
+            "hex": "#c6c1c4"
+        }
+    ],
+    "ui": [
+        {
+            "name": "base",
+            "hex": "#140f15"
+        },
+        {
+            "name": "mantle",
+            "hex": "#0b080c"
+        },
+        {
+            "name": "crust",
+            "hex": "#030203"
+        },
+        {
+            "name": "surface0",
+            "hex": "#2a1f2d"
+        },
+        {
+            "name": "surface1",
+            "hex": "#413045"
+        },
+        {
+            "name": "surface2",
+            "hex": "#553f5a"
+        },
+        {
+            "name": "overlay0",
+            "hex": "#6c5072"
+        },
+        {
+            "name": "overlay1",
+            "hex": "#82608a"
+        },
+        {
+            "name": "overlay2",
+            "hex": "#97749e"
+        }
+    ]
 }
