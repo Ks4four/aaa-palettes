@@ -38,36 +38,36 @@ A picture (or two) used for color sampling.
 
 ```lua
 require("catppuccin").setup {
-	color_overrides = {
-		latte = {
-			rosewater = "#d76787",
-			flamingo = "#dd608d",
-			pink = "#d96489",
-			mauve = "#6c699f",
-			red = "#d65b91",
-			maroon = "#b84681",
-			peach = "#d1732f",
-			yellow = "#b3821f",
-			green = "#469b60",
-			teal = "#5a9591",
-			sky = "#7d8da2",
-			sapphire = "#4c6c94",
-			blue = "#5e81ac",
-			lavender = "#7c79a9",
-			text = "#3b4251",
-			subtext1 = "#4a5161",
-			subtext0 = "#5a616f",
-			overlay2 = "#636986",
-			overlay1 = "#727896",
-			overlay0 = "#838aa4",
-			surface2 = "#939bb2",
-			surface1 = "#a4abc1",
-			surface0 = "#b5bcce",
-			base = "#d8dee8",
-			mantle = "#ced5e3",
-			crust = "#c5cddd",
-		},
-	}
+    color_overrides = {
+        latte = {
+        rosewater= "#CF6D4F",
+        flamingo = "#D27051",
+        pink     = "#B87F53",
+        mauve    = "#6C699F",
+        red      = "#DC634D",
+        maroon   = "#B04F4A",
+        peach    = "#D1732F",
+        yellow   = "#B3821F",
+        green    = "#469B60",
+        teal     = "#5A9591",
+        sky      = "#7D8DA2",
+        sapphire = "#4C6C94",
+        blue     = "#5E81AC",
+        lavender = "#7C79A9",
+        text     = "#3B4251",
+        subtext0 = "#5A616F",
+        subtext1 = "#4A5161",
+        base     = "#D8DEE8",
+        mantle   = "#CED5E3",
+        crust    = "#C5CDDD",
+        surface0 = "#B5BCCE",
+        surface1 = "#A4ABC1",
+        surface2 = "#939BB2",
+        overlay0 = "#838AA4",
+        overlay1 = "#727896",
+        overlay2 = "#636986",
+        },
+    }
 }
 ```
 

@@ -33,17 +33,17 @@
     },
     "rows": {
       "Rosewater": {
-        "ratio": 2.51,
+        "ratio": 2.61,
         "pass_normal": true,
         "pass_strict": null
       },
       "Flamingo": {
-        "ratio": 2.53,
+        "ratio": 2.51,
         "pass_normal": true,
         "pass_strict": null
       },
       "Pink": {
-        "ratio": 2.53,
+        "ratio": 2.51,
         "pass_normal": true,
         "pass_strict": null
       },
@@ -53,12 +53,12 @@
         "pass_strict": null
       },
       "Red": {
-        "ratio": 2.69,
+        "ratio": 2.62,
         "pass_normal": true,
         "pass_strict": null
       },
       "Maroon": {
-        "ratio": 3.67,
+        "ratio": 3.82,
         "pass_normal": true,
         "pass_strict": null
       },
