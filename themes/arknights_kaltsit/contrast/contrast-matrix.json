@@ -1,6 +1,6 @@
 {
   "meta": {
-    "source": "kaltsit.json"
+    "source": "palette.json"
   },
   "matrices": {
     "Text_vs_UI": {
@@ -9,142 +9,142 @@
         "strict": null
       },
       "rows": {
-        "Text": {
-          "Base": {
+        "text": {
+          "base": {
             "ratio": 7.8,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Mantle": {
+          "mantle": {
             "ratio": 7.26,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Crust": {
+          "crust": {
             "ratio": 6.67,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Surface0": {
+          "surface0": {
             "ratio": 5.73,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Surface1": {
+          "surface1": {
             "ratio": 4.87,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Surface2": {
+          "surface2": {
             "ratio": 4.1,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay0": {
+          "overlay0": {
             "ratio": 3.41,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay1": {
+          "overlay1": {
             "ratio": 2.78,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay2": {
+          "overlay2": {
             "ratio": 2.25,
             "pass_normal": false,
             "pass_strict": null
           }
         },
-        "Subtext0": {
-          "Base": {
+        "subtext0": {
+          "base": {
             "ratio": 4.79,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Mantle": {
+          "mantle": {
             "ratio": 4.46,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Crust": {
+          "crust": {
             "ratio": 4.1,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface0": {
+          "surface0": {
             "ratio": 3.52,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface1": {
+          "surface1": {
             "ratio": 2.99,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface2": {
+          "surface2": {
             "ratio": 2.51,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay0": {
+          "overlay0": {
             "ratio": 2.09,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay1": {
+          "overlay1": {
             "ratio": 1.7,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay2": {
+          "overlay2": {
             "ratio": 1.38,
             "pass_normal": false,
             "pass_strict": null
           }
         },
-        "Subtext1": {
-          "Base": {
+        "subtext1": {
+          "base": {
             "ratio": 6.09,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Mantle": {
+          "mantle": {
             "ratio": 5.66,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Crust": {
+          "crust": {
             "ratio": 5.21,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Surface0": {
+          "surface0": {
             "ratio": 4.47,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface1": {
+          "surface1": {
             "ratio": 3.8,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface2": {
+          "surface2": {
             "ratio": 3.2,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay0": {
+          "overlay0": {
             "ratio": 2.66,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay1": {
+          "overlay1": {
             "ratio": 2.17,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay2": {
+          "overlay2": {
             "ratio": 1.76,
             "pass_normal": false,
             "pass_strict": null
@@ -158,659 +158,659 @@
         "strict": null
       },
       "rows": {
-        "Rosewater": {
-          "Base": {
+        "rosewater": {
+          "base": {
             "ratio": 2.6,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Mantle": {
+          "mantle": {
             "ratio": 2.42,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Crust": {
+          "crust": {
             "ratio": 2.22,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface0": {
+          "surface0": {
             "ratio": 1.91,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface1": {
+          "surface1": {
             "ratio": 1.62,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface2": {
+          "surface2": {
             "ratio": 1.37,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay0": {
+          "overlay0": {
             "ratio": 1.14,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay1": {
+          "overlay1": {
             "ratio": 1.08,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay2": {
+          "overlay2": {
             "ratio": 1.33,
             "pass_normal": false,
             "pass_strict": null
           }
         },
-        "Flamingo": {
-          "Base": {
+        "flamingo": {
+          "base": {
             "ratio": 2.74,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Mantle": {
+          "mantle": {
             "ratio": 2.55,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Crust": {
+          "crust": {
             "ratio": 2.34,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface0": {
+          "surface0": {
             "ratio": 2.01,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface1": {
+          "surface1": {
             "ratio": 1.71,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface2": {
+          "surface2": {
             "ratio": 1.44,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay0": {
+          "overlay0": {
             "ratio": 1.2,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay1": {
+          "overlay1": {
             "ratio": 1.03,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay2": {
+          "overlay2": {
             "ratio": 1.27,
             "pass_normal": false,
             "pass_strict": null
           }
         },
-        "Pink": {
-          "Base": {
+        "pink": {
+          "base": {
             "ratio": 2.74,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Mantle": {
+          "mantle": {
             "ratio": 2.54,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Crust": {
+          "crust": {
             "ratio": 2.34,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface0": {
+          "surface0": {
             "ratio": 2.01,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface1": {
+          "surface1": {
             "ratio": 1.71,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface2": {
+          "surface2": {
             "ratio": 1.44,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay0": {
+          "overlay0": {
             "ratio": 1.2,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay1": {
+          "overlay1": {
             "ratio": 1.03,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay2": {
+          "overlay2": {
             "ratio": 1.27,
             "pass_normal": false,
             "pass_strict": null
           }
         },
-        "Mauve": {
-          "Base": {
+        "mauve": {
+          "base": {
             "ratio": 2.7,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Mantle": {
+          "mantle": {
             "ratio": 2.51,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Crust": {
+          "crust": {
             "ratio": 2.31,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface0": {
+          "surface0": {
             "ratio": 1.98,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface1": {
+          "surface1": {
             "ratio": 1.68,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface2": {
+          "surface2": {
             "ratio": 1.42,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay0": {
+          "overlay0": {
             "ratio": 1.18,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay1": {
+          "overlay1": {
             "ratio": 1.04,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay2": {
+          "overlay2": {
             "ratio": 1.28,
             "pass_normal": false,
             "pass_strict": null
           }
         },
-        "Red": {
-          "Base": {
+        "red": {
+          "base": {
             "ratio": 3.5,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Mantle": {
+          "mantle": {
             "ratio": 3.25,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Crust": {
+          "crust": {
             "ratio": 2.99,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Surface0": {
+          "surface0": {
             "ratio": 2.57,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Surface1": {
+          "surface1": {
             "ratio": 2.18,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface2": {
+          "surface2": {
             "ratio": 1.84,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay0": {
+          "overlay0": {
             "ratio": 1.53,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay1": {
+          "overlay1": {
             "ratio": 1.24,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay2": {
+          "overlay2": {
             "ratio": 1.01,
             "pass_normal": false,
             "pass_strict": null
           }
         },
-        "Maroon": {
-          "Base": {
+        "maroon": {
+          "base": {
             "ratio": 4.98,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Mantle": {
+          "mantle": {
             "ratio": 4.64,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Crust": {
+          "crust": {
             "ratio": 4.26,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Surface0": {
+          "surface0": {
             "ratio": 3.66,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Surface1": {
+          "surface1": {
             "ratio": 3.11,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Surface2": {
+          "surface2": {
             "ratio": 2.62,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Overlay0": {
+          "overlay0": {
             "ratio": 2.18,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay1": {
+          "overlay1": {
             "ratio": 1.77,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay2": {
+          "overlay2": {
             "ratio": 1.44,
             "pass_normal": false,
             "pass_strict": null
           }
         },
-        "Peach": {
-          "Base": {
+        "peach": {
+          "base": {
             "ratio": 2.57,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Mantle": {
+          "mantle": {
             "ratio": 2.39,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Crust": {
+          "crust": {
             "ratio": 2.2,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface0": {
+          "surface0": {
             "ratio": 1.88,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface1": {
+          "surface1": {
             "ratio": 1.6,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface2": {
+          "surface2": {
             "ratio": 1.35,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay0": {
+          "overlay0": {
             "ratio": 1.12,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay1": {
+          "overlay1": {
             "ratio": 1.09,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay2": {
+          "overlay2": {
             "ratio": 1.35,
             "pass_normal": false,
             "pass_strict": null
           }
         },
-        "Yellow": {
-          "Base": {
+        "yellow": {
+          "base": {
             "ratio": 2.58,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Mantle": {
+          "mantle": {
             "ratio": 2.4,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Crust": {
+          "crust": {
             "ratio": 2.21,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface0": {
+          "surface0": {
             "ratio": 1.89,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface1": {
+          "surface1": {
             "ratio": 1.61,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface2": {
+          "surface2": {
             "ratio": 1.35,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay0": {
+          "overlay0": {
             "ratio": 1.13,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay1": {
+          "overlay1": {
             "ratio": 1.09,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay2": {
+          "overlay2": {
             "ratio": 1.34,
             "pass_normal": false,
             "pass_strict": null
           }
         },
-        "Green": {
-          "Base": {
+        "green": {
+          "base": {
             "ratio": 2.72,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Mantle": {
+          "mantle": {
             "ratio": 2.53,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Crust": {
+          "crust": {
             "ratio": 2.32,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface0": {
+          "surface0": {
             "ratio": 1.99,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface1": {
+          "surface1": {
             "ratio": 1.7,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface2": {
+          "surface2": {
             "ratio": 1.43,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay0": {
+          "overlay0": {
             "ratio": 1.19,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay1": {
+          "overlay1": {
             "ratio": 1.03,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay2": {
+          "overlay2": {
             "ratio": 1.28,
             "pass_normal": false,
             "pass_strict": null
           }
         },
-        "Teal": {
-          "Base": {
+        "teal": {
+          "base": {
             "ratio": 2.54,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Mantle": {
+          "mantle": {
             "ratio": 2.36,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Crust": {
+          "crust": {
             "ratio": 2.17,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface0": {
+          "surface0": {
             "ratio": 1.86,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface1": {
+          "surface1": {
             "ratio": 1.59,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface2": {
+          "surface2": {
             "ratio": 1.33,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay0": {
+          "overlay0": {
             "ratio": 1.11,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay1": {
+          "overlay1": {
             "ratio": 1.11,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay2": {
+          "overlay2": {
             "ratio": 1.36,
             "pass_normal": false,
             "pass_strict": null
           }
         },
-        "Sky": {
-          "Base": {
+        "sky": {
+          "base": {
             "ratio": 2.72,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Mantle": {
+          "mantle": {
             "ratio": 2.53,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Crust": {
+          "crust": {
             "ratio": 2.32,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface0": {
+          "surface0": {
             "ratio": 1.99,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface1": {
+          "surface1": {
             "ratio": 1.69,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface2": {
+          "surface2": {
             "ratio": 1.43,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay0": {
+          "overlay0": {
             "ratio": 1.19,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay1": {
+          "overlay1": {
             "ratio": 1.04,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay2": {
+          "overlay2": {
             "ratio": 1.28,
             "pass_normal": false,
             "pass_strict": null
           }
         },
-        "Sapphire": {
-          "Base": {
+        "sapphire": {
+          "base": {
             "ratio": 2.77,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Mantle": {
+          "mantle": {
             "ratio": 2.58,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Crust": {
+          "crust": {
             "ratio": 2.37,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface0": {
+          "surface0": {
             "ratio": 2.03,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface1": {
+          "surface1": {
             "ratio": 1.73,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface2": {
+          "surface2": {
             "ratio": 1.45,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay0": {
+          "overlay0": {
             "ratio": 1.21,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay1": {
+          "overlay1": {
             "ratio": 1.02,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay2": {
+          "overlay2": {
             "ratio": 1.25,
             "pass_normal": false,
             "pass_strict": null
           }
         },
-        "Blue": {
-          "Base": {
+        "blue": {
+          "base": {
             "ratio": 3.33,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Mantle": {
+          "mantle": {
             "ratio": 3.1,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Crust": {
+          "crust": {
             "ratio": 2.85,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Surface0": {
+          "surface0": {
             "ratio": 2.45,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface1": {
+          "surface1": {
             "ratio": 2.08,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface2": {
+          "surface2": {
             "ratio": 1.75,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay0": {
+          "overlay0": {
             "ratio": 1.46,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay1": {
+          "overlay1": {
             "ratio": 1.19,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay2": {
+          "overlay2": {
             "ratio": 1.04,
             "pass_normal": false,
             "pass_strict": null
           }
         },
-        "Lavender": {
-          "Base": {
+        "lavender": {
+          "base": {
             "ratio": 2.59,
             "pass_normal": true,
             "pass_strict": null
           },
-          "Mantle": {
+          "mantle": {
             "ratio": 2.41,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Crust": {
+          "crust": {
             "ratio": 2.22,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface0": {
+          "surface0": {
             "ratio": 1.9,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface1": {
+          "surface1": {
             "ratio": 1.62,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Surface2": {
+          "surface2": {
             "ratio": 1.36,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay0": {
+          "overlay0": {
             "ratio": 1.13,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay1": {
+          "overlay1": {
             "ratio": 1.08,
             "pass_normal": false,
             "pass_strict": null
           },
-          "Overlay2": {
+          "overlay2": {
             "ratio": 1.34,
             "pass_normal": false,
             "pass_strict": null
@@ -824,1009 +824,1009 @@
         "strict": null
       },
       "rows": {
-        "Rosewater": {
-          "Rosewater": {
+        "rosewater": {
+          "rosewater": {
             "ratio": 1.0,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Flamingo": {
+          "flamingo": {
             "ratio": 1.05,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Pink": {
+          "pink": {
             "ratio": 1.05,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Mauve": {
+          "mauve": {
             "ratio": 1.04,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Red": {
+          "red": {
             "ratio": 1.35,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Maroon": {
+          "maroon": {
             "ratio": 1.92,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Peach": {
+          "peach": {
             "ratio": 1.01,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Yellow": {
+          "yellow": {
             "ratio": 1.01,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Green": {
+          "green": {
             "ratio": 1.05,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Teal": {
+          "teal": {
             "ratio": 1.02,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Sky": {
+          "sky": {
             "ratio": 1.04,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Sapphire": {
+          "sapphire": {
             "ratio": 1.06,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Blue": {
+          "blue": {
             "ratio": 1.28,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Lavender": {
+          "lavender": {
             "ratio": 1.0,
             "pass_normal": null,
             "pass_strict": null
           }
         },
-        "Flamingo": {
-          "Rosewater": {
+        "flamingo": {
+          "rosewater": {
             "ratio": 1.05,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Flamingo": {
+          "flamingo": {
             "ratio": 1.0,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Pink": {
+          "pink": {
             "ratio": 1.0,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Mauve": {
+          "mauve": {
             "ratio": 1.01,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Red": {
+          "red": {
             "ratio": 1.28,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Maroon": {
+          "maroon": {
             "ratio": 1.82,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Peach": {
+          "peach": {
             "ratio": 1.07,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Yellow": {
+          "yellow": {
             "ratio": 1.06,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Green": {
+          "green": {
             "ratio": 1.01,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Teal": {
+          "teal": {
             "ratio": 1.08,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Sky": {
+          "sky": {
             "ratio": 1.01,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Sapphire": {
+          "sapphire": {
             "ratio": 1.01,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Blue": {
+          "blue": {
             "ratio": 1.22,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Lavender": {
+          "lavender": {
             "ratio": 1.06,
             "pass_normal": null,
             "pass_strict": null
           }
         },
-        "Pink": {
-          "Rosewater": {
+        "pink": {
+          "rosewater": {
             "ratio": 1.05,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Flamingo": {
+          "flamingo": {
             "ratio": 1.0,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Pink": {
+          "pink": {
             "ratio": 1.0,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Mauve": {
+          "mauve": {
             "ratio": 1.01,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Red": {
+          "red": {
             "ratio": 1.28,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Maroon": {
+          "maroon": {
             "ratio": 1.82,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Peach": {
+          "peach": {
             "ratio": 1.07,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Yellow": {
+          "yellow": {
             "ratio": 1.06,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Green": {
+          "green": {
             "ratio": 1.01,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Teal": {
+          "teal": {
             "ratio": 1.08,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Sky": {
+          "sky": {
             "ratio": 1.01,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Sapphire": {
+          "sapphire": {
             "ratio": 1.01,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Blue": {
+          "blue": {
             "ratio": 1.22,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Lavender": {
+          "lavender": {
             "ratio": 1.06,
             "pass_normal": null,
             "pass_strict": null
           }
         },
-        "Mauve": {
-          "Rosewater": {
+        "mauve": {
+          "rosewater": {
             "ratio": 1.04,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Flamingo": {
+          "flamingo": {
             "ratio": 1.01,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Pink": {
+          "pink": {
             "ratio": 1.01,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Mauve": {
+          "mauve": {
             "ratio": 1.0,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Red": {
+          "red": {
             "ratio": 1.3,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Maroon": {
+          "maroon": {
             "ratio": 1.85,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Peach": {
+          "peach": {
             "ratio": 1.05,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Yellow": {
+          "yellow": {
             "ratio": 1.05,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Green": {
+          "green": {
             "ratio": 1.01,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Teal": {
+          "teal": {
             "ratio": 1.06,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Sky": {
+          "sky": {
             "ratio": 1.01,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Sapphire": {
+          "sapphire": {
             "ratio": 1.03,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Blue": {
+          "blue": {
             "ratio": 1.23,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Lavender": {
+          "lavender": {
             "ratio": 1.04,
             "pass_normal": null,
             "pass_strict": null
           }
         },
-        "Red": {
-          "Rosewater": {
+        "red": {
+          "rosewater": {
             "ratio": 1.35,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Flamingo": {
+          "flamingo": {
             "ratio": 1.28,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Pink": {
+          "pink": {
             "ratio": 1.28,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Mauve": {
+          "mauve": {
             "ratio": 1.3,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Red": {
+          "red": {
             "ratio": 1.0,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Maroon": {
+          "maroon": {
             "ratio": 1.42,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Peach": {
+          "peach": {
             "ratio": 1.36,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Yellow": {
+          "yellow": {
             "ratio": 1.36,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Green": {
+          "green": {
             "ratio": 1.29,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Teal": {
+          "teal": {
             "ratio": 1.38,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Sky": {
+          "sky": {
             "ratio": 1.29,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Sapphire": {
+          "sapphire": {
             "ratio": 1.26,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Blue": {
+          "blue": {
             "ratio": 1.05,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Lavender": {
+          "lavender": {
             "ratio": 1.35,
             "pass_normal": null,
             "pass_strict": null
           }
         },
-        "Maroon": {
-          "Rosewater": {
+        "maroon": {
+          "rosewater": {
             "ratio": 1.92,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Flamingo": {
+          "flamingo": {
             "ratio": 1.82,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Pink": {
+          "pink": {
             "ratio": 1.82,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Mauve": {
+          "mauve": {
             "ratio": 1.85,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Red": {
+          "red": {
             "ratio": 1.42,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Maroon": {
+          "maroon": {
             "ratio": 1.0,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Peach": {
+          "peach": {
             "ratio": 1.94,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Yellow": {
+          "yellow": {
             "ratio": 1.93,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Green": {
+          "green": {
             "ratio": 1.83,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Teal": {
+          "teal": {
             "ratio": 1.96,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Sky": {
+          "sky": {
             "ratio": 1.84,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Sapphire": {
+          "sapphire": {
             "ratio": 1.8,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Blue": {
+          "blue": {
             "ratio": 1.5,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Lavender": {
+          "lavender": {
             "ratio": 1.92,
             "pass_normal": null,
             "pass_strict": null
           }
         },
-        "Peach": {
-          "Rosewater": {
+        "peach": {
+          "rosewater": {
             "ratio": 1.01,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Flamingo": {
+          "flamingo": {
             "ratio": 1.07,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Pink": {
+          "pink": {
             "ratio": 1.07,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Mauve": {
+          "mauve": {
             "ratio": 1.05,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Red": {
+          "red": {
             "ratio": 1.36,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Maroon": {
+          "maroon": {
             "ratio": 1.94,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Peach": {
+          "peach": {
             "ratio": 1.0,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Yellow": {
+          "yellow": {
             "ratio": 1.0,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Green": {
+          "green": {
             "ratio": 1.06,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Teal": {
+          "teal": {
             "ratio": 1.01,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Sky": {
+          "sky": {
             "ratio": 1.06,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Sapphire": {
+          "sapphire": {
             "ratio": 1.08,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Blue": {
+          "blue": {
             "ratio": 1.3,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Lavender": {
+          "lavender": {
             "ratio": 1.01,
             "pass_normal": null,
             "pass_strict": null
           }
         },
-        "Yellow": {
-          "Rosewater": {
+        "yellow": {
+          "rosewater": {
             "ratio": 1.01,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Flamingo": {
+          "flamingo": {
             "ratio": 1.06,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Pink": {
+          "pink": {
             "ratio": 1.06,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Mauve": {
+          "mauve": {
             "ratio": 1.05,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Red": {
+          "red": {
             "ratio": 1.36,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Maroon": {
+          "maroon": {
             "ratio": 1.93,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Peach": {
+          "peach": {
             "ratio": 1.0,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Yellow": {
+          "yellow": {
             "ratio": 1.0,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Green": {
+          "green": {
             "ratio": 1.05,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Teal": {
+          "teal": {
             "ratio": 1.02,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Sky": {
+          "sky": {
             "ratio": 1.05,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Sapphire": {
+          "sapphire": {
             "ratio": 1.07,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Blue": {
+          "blue": {
             "ratio": 1.29,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Lavender": {
+          "lavender": {
             "ratio": 1.0,
             "pass_normal": null,
             "pass_strict": null
           }
         },
-        "Green": {
-          "Rosewater": {
+        "green": {
+          "rosewater": {
             "ratio": 1.05,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Flamingo": {
+          "flamingo": {
             "ratio": 1.01,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Pink": {
+          "pink": {
             "ratio": 1.01,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Mauve": {
+          "mauve": {
             "ratio": 1.01,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Red": {
+          "red": {
             "ratio": 1.29,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Maroon": {
+          "maroon": {
             "ratio": 1.83,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Peach": {
+          "peach": {
             "ratio": 1.06,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Yellow": {
+          "yellow": {
             "ratio": 1.05,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Green": {
+          "green": {
             "ratio": 1.0,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Teal": {
+          "teal": {
             "ratio": 1.07,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Sky": {
+          "sky": {
             "ratio": 1.0,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Sapphire": {
+          "sapphire": {
             "ratio": 1.02,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Blue": {
+          "blue": {
             "ratio": 1.23,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Lavender": {
+          "lavender": {
             "ratio": 1.05,
             "pass_normal": null,
             "pass_strict": null
           }
         },
-        "Teal": {
-          "Rosewater": {
+        "teal": {
+          "rosewater": {
             "ratio": 1.02,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Flamingo": {
+          "flamingo": {
             "ratio": 1.08,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Pink": {
+          "pink": {
             "ratio": 1.08,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Mauve": {
+          "mauve": {
             "ratio": 1.06,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Red": {
+          "red": {
             "ratio": 1.38,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Maroon": {
+          "maroon": {
             "ratio": 1.96,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Peach": {
+          "peach": {
             "ratio": 1.01,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Yellow": {
+          "yellow": {
             "ratio": 1.02,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Green": {
+          "green": {
             "ratio": 1.07,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Teal": {
+          "teal": {
             "ratio": 1.0,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Sky": {
+          "sky": {
             "ratio": 1.07,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Sapphire": {
+          "sapphire": {
             "ratio": 1.09,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Blue": {
+          "blue": {
             "ratio": 1.31,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Lavender": {
+          "lavender": {
             "ratio": 1.02,
             "pass_normal": null,
             "pass_strict": null
           }
         },
-        "Sky": {
-          "Rosewater": {
+        "sky": {
+          "rosewater": {
             "ratio": 1.04,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Flamingo": {
+          "flamingo": {
             "ratio": 1.01,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Pink": {
+          "pink": {
             "ratio": 1.01,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Mauve": {
+          "mauve": {
             "ratio": 1.01,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Red": {
+          "red": {
             "ratio": 1.29,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Maroon": {
+          "maroon": {
             "ratio": 1.84,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Peach": {
+          "peach": {
             "ratio": 1.06,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Yellow": {
+          "yellow": {
             "ratio": 1.05,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Green": {
+          "green": {
             "ratio": 1.0,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Teal": {
+          "teal": {
             "ratio": 1.07,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Sky": {
+          "sky": {
             "ratio": 1.0,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Sapphire": {
+          "sapphire": {
             "ratio": 1.02,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Blue": {
+          "blue": {
             "ratio": 1.23,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Lavender": {
+          "lavender": {
             "ratio": 1.05,
             "pass_normal": null,
             "pass_strict": null
           }
         },
-        "Sapphire": {
-          "Rosewater": {
+        "sapphire": {
+          "rosewater": {
             "ratio": 1.06,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Flamingo": {
+          "flamingo": {
             "ratio": 1.01,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Pink": {
+          "pink": {
             "ratio": 1.01,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Mauve": {
+          "mauve": {
             "ratio": 1.03,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Red": {
+          "red": {
             "ratio": 1.26,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Maroon": {
+          "maroon": {
             "ratio": 1.8,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Peach": {
+          "peach": {
             "ratio": 1.08,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Yellow": {
+          "yellow": {
             "ratio": 1.07,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Green": {
+          "green": {
             "ratio": 1.02,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Teal": {
+          "teal": {
             "ratio": 1.09,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Sky": {
+          "sky": {
             "ratio": 1.02,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Sapphire": {
+          "sapphire": {
             "ratio": 1.0,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Blue": {
+          "blue": {
             "ratio": 1.2,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Lavender": {
+          "lavender": {
             "ratio": 1.07,
             "pass_normal": null,
             "pass_strict": null
           }
         },
-        "Blue": {
-          "Rosewater": {
+        "blue": {
+          "rosewater": {
             "ratio": 1.28,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Flamingo": {
+          "flamingo": {
             "ratio": 1.22,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Pink": {
+          "pink": {
             "ratio": 1.22,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Mauve": {
+          "mauve": {
             "ratio": 1.23,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Red": {
+          "red": {
             "ratio": 1.05,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Maroon": {
+          "maroon": {
             "ratio": 1.5,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Peach": {
+          "peach": {
             "ratio": 1.3,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Yellow": {
+          "yellow": {
             "ratio": 1.29,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Green": {
+          "green": {
             "ratio": 1.23,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Teal": {
+          "teal": {
             "ratio": 1.31,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Sky": {
+          "sky": {
             "ratio": 1.23,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Sapphire": {
+          "sapphire": {
             "ratio": 1.2,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Blue": {
+          "blue": {
             "ratio": 1.0,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Lavender": {
+          "lavender": {
             "ratio": 1.29,
             "pass_normal": null,
             "pass_strict": null
           }
         },
-        "Lavender": {
-          "Rosewater": {
+        "lavender": {
+          "rosewater": {
             "ratio": 1.0,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Flamingo": {
+          "flamingo": {
             "ratio": 1.06,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Pink": {
+          "pink": {
             "ratio": 1.06,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Mauve": {
+          "mauve": {
             "ratio": 1.04,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Red": {
+          "red": {
             "ratio": 1.35,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Maroon": {
+          "maroon": {
             "ratio": 1.92,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Peach": {
+          "peach": {
             "ratio": 1.01,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Yellow": {
+          "yellow": {
             "ratio": 1.0,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Green": {
+          "green": {
             "ratio": 1.05,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Teal": {
+          "teal": {
             "ratio": 1.02,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Sky": {
+          "sky": {
             "ratio": 1.05,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Sapphire": {
+          "sapphire": {
             "ratio": 1.07,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Blue": {
+          "blue": {
             "ratio": 1.29,
             "pass_normal": null,
             "pass_strict": null
           },
-          "Lavender": {
+          "lavender": {
             "ratio": 1.0,
             "pass_normal": null,
             "pass_strict": null
