@@ -1,4 +1,4 @@
-# AAA Color Scheme
+# aaa-palettes
 
 > If anime avatar users are the best programmers, where are all the anime colorschemes?
 
@@ -47,6 +47,10 @@
 - [Sussurro (Travel Freely)](themes/arknights_sussurro_travel-freely/README.md), Arknights; Dark theme
 
   [![sussurro-travel-freely-icon](themes/arknights_sussurro_travel-freely/assets/icon.png)![sussurro-travel-freely-strip](themes/arknights_sussurro_travel-freely/assets/strip.svg)](themes/arknights_sussurro_travel-freely/README.md)
+
+- [Amiya (Medic) (Solo Around the World)](themes/arknights_amiya_medic_solo-around-the-world/README.md), Arknights; Dark theme
+
+  [![amiya-medic-solo-around-the-world-arknights-icon](themes/arknights_amiya_medic_solo-around-the-world/assets/icon.png)![amiya-medic-solo-around-the-world-arknights-strip](themes/arknights_amiya_medic_solo-around-the-world/assets/strip.svg)](themes/arknights_amiya_medic_solo-around-the-world/README.md)
 
 ## Porting
 
