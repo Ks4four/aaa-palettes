@@ -3,7 +3,7 @@
 - **Character:** 橘ノゾミ (たちばなのぞみ)
 - **Source:** ブルーアーカイブ / Blue Archive
 - **Alias:** `Tachibana Nozomi` (EN), `橘望`, `橘希望` (CN)
-- **Reference:** [Donmai Wiki](<https://donmai.moe/wiki_pages/nozomi_(blue_archive)>), [Pixiv Encyclopedia](https://dic.pixiv.net/a/%E6%A9%98%E3%83%8E%E3%82%BE%E3%83%9F)
+- **Reference:** [Safebooru Donmai Wiki](<https://safebooru.donmai.us/wiki_pages/nozomi_(blue_archive)>), [Pixiv Encyclopedia](https://dic.pixiv.net/a/%E6%A9%98%E3%83%8E%E3%82%BE%E3%83%9F)
 - **Index:** `#1`
 
 ---

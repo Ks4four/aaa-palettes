@@ -3,7 +3,7 @@
 - **Character:** 普瑞赛斯
 - **Source:** 明日方舟 / Arknights
 - **Alias:** `Priestess` (EN), `プリースティス` (JP)
-- **Reference:** [Donmai Wiki](<https://donmai.moe/wiki_pages/priestess_(arknights)>), [Moegirlpedia](https://zh.moegirl.org.cn/zh-hans/%E6%99%AE%E7%91%9E%E8%B5%9B%E6%96%AF)
+- **Reference:** [Safebooru Wiki](<https://safebooru.donmai.us/wiki_pages/priestess_(arknights)>), [Moegirlpedia](https://zh.moegirl.org.cn/zh-hans/%E6%99%AE%E7%91%9E%E8%B5%9B%E6%96%AF)
 - **Index:** `#5`
 
 ---

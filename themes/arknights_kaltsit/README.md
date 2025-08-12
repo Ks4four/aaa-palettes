@@ -3,7 +3,7 @@
 - **Character:** 凯尔希
 - **Source:** 明日方舟 / Arknights
 - **Alias:** `Kal'tsit` (EN), `ケルシー` (JP)
-- **Reference:** [Donmai Wiki](<https://donmai.moe/wiki_pages/arknights_kaltsit>), [PRTS](https://prts.wiki/w/%E5%87%AF%E5%B0%94%E5%B8%8C)
+- **Reference:** [Safebooru Wiki](<https://safebooru.donmai.us/wiki_pages/arknights_kaltsit>), [PRTS](https://prts.wiki/w/%E5%87%AF%E5%B0%94%E5%B8%8C)
 - **Index:** `#4`
 
 ---

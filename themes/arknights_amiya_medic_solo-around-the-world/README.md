@@ -3,7 +3,7 @@
 - **Character:** 阿米娅 (医疗)(寰宇独奏)
 - **Source:** 明日方舟 / Arknights
 - **Alias:** `Amiya (Medic) (Solo Around the World) (Arknights)` (EN), `アーミヤ(医療)(宙に響く独奏)` (JP)
-- **Reference:** [Donmai Wiki](<https://donmai.moe/wiki_pages/amiya_(medic)_(solo_around_the_world)_(arknights)>), [PRTS](https://prts.wiki/w/%E9%98%BF%E7%B1%B3%E5%A8%85(%E5%8C%BB%E7%96%97))
+- **Reference:** [Safebooru Wiki](<https://safebooru.donmai.us/wiki_pages/amiya_(medic)_(solo_around_the_world)_(arknights)>), [PRTS](https://prts.wiki/w/%E9%98%BF%E7%B1%B3%E5%A8%85(%E5%8C%BB%E7%96%97))
 - **Index:** `#12`
 
 ---

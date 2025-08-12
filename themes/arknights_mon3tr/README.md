@@ -3,7 +3,7 @@
 - **Character:** Mon3tr
 - **Source:** 明日方舟 / Arknights
 - **Alias:** Read as `Monster`
-- **Reference:** [Donmai Wiki](<https://donmai.moe/wiki_pages/mon3tr_(arknights)>), [PRTS](https://prts.wiki/w/Mon3tr)
+- **Reference:** [Safebooru Wiki](<https://safebooru>), [PRTS](https://prts.wiki/w/Mon3tr)
 - **Index:** `#2`
 
 ---

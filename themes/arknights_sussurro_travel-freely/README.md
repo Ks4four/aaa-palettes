@@ -3,7 +3,7 @@
 - **Character:** 苏苏洛（随意而行）
 - **Source:** 明日方舟 / Arknights
 - **Alias:** `Sussurro (Travel Freely)` (EN), `ススーロ (勝手気まま)` (JP)
-- **Reference:** [Donmai Wiki](<https://donmai.moe/wiki_pages/sussurro_(travel_freely)_(arknights)>), [PRTS](https://prts.wiki/w/%E8%8B%8F%E8%8B%8F%E6%B4%9B)
+- **Reference:** [Safebooru Wiki](<https://safebooru.donmai.us/wiki_pages/sussurro_(travel_freely)_(arknights)>), [PRTS](https://prts.wiki/w/%E8%8B%8F%E8%8B%8F%E6%B4%9B)
 - **Index:** `#11`
 
 ---

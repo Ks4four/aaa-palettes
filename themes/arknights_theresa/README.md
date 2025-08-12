@@ -3,7 +3,7 @@
 - **Character:** 特蕾西娅
 - **Source:** 明日方舟 / Arknights
 - **Alias:** `魔王` (CN), `Theresa` (EN), `テレジア` (JP)
-- **Reference:** [Donmai Wiki](<https://donmai.moe/wiki_pages/theresa_(arknights)>), [Moegirlpedia](<https://zh.moegirl.org.cn/zh-hans/%E7%89%B9%E8%95%BE%E8%A5%BF%E5%A8%85(%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F)>)
+- **Reference:** [Safebooru Wiki](<https://safebooru.donmai.us/wiki_pages/theresa_(arknights)>), [Moegirlpedia](<https://zh.moegirl.org.cn/zh-hans/%E7%89%B9%E8%95%BE%E8%A5%BF%E5%A8%85(%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F)>)
 - **Index:** `#6`
 
 ---

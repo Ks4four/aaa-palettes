@@ -3,7 +3,7 @@
 - **Character:** 桃金娘（繁闹祭典）
 - **Source:** 明日方舟 / Arknights
 - **Alias:** `Myrtle (Bustling Festival)` (EN), `テンニンカ (にぎやかなお祭り)` (JP)
-- **Reference:** [Donmai Wiki](<https://donmai.moe/wiki_pages/myrtle_(bustling_festival)_(arknights)>), [PRTS](https://prts.wiki/w/%E6%A1%83%E9%87%91%E5%A8%98)
+- **Reference:** [Safebooru Wiki](<https://safebooru.donmai.us/wiki_pages/myrtle_(bustling_festival)_(arknights)>), [PRTS](https://prts.wiki/w/%E6%A1%83%E9%87%91%E5%A8%98)
 - **Index:** `#9`
 
 ---

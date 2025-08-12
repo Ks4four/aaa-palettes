@@ -3,7 +3,7 @@
 - **Character:** 斑点
 - **Source:** 明日方舟 / Arknights
 - **Alias:** `伯克依·博尔努` (Real Name), `Spot`, `Bukar Bornu` (EN), `スポット` (JP)
-- **Reference:** [Donmai Wiki](<https://donmai.moe/wiki_pages/spot_(arknights)>), [PRTS](https://prts.wiki/w/%E6%96%91%E7%82%B9)
+- **Reference:** [Safebooru Wiki](<https://safebooru.donmai.us/wiki_pages/spot_(arknights)>), [PRTS](https://prts.wiki/w/%E6%96%91%E7%82%B9)
 - **Index:** `#8`
 
 ---

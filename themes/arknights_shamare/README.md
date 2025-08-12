@@ -3,7 +3,7 @@
 - **Character:** 巫恋
 - **Source:** 明日方舟 / Arknights
 - **Alias:** `Shamare` (EN), `シャマレ` (JP)
-- **Reference:** [Donmai Wiki](<https://donmai.moe/wiki_pages/shamare_(arknights)>), [PRTS](https://prts.wiki/w/%E5%B7%AB%E6%81%8B)
+- **Reference:** [Safebooru Wiki](<https://safebooru.donmai.us/wiki_pages/shamare_(arknights)>), [PRTS](https://prts.wiki/w/%E5%B7%AB%E6%81%8B)
 - **Index:** `#7`
 
 ---

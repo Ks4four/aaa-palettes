@@ -3,7 +3,7 @@
 - **Character:** 迷迭香
 - **Source:** 明日方舟 / Arknights
 - **Alias:** `纳西莎` (Real name), `Rosmontis`, `Narcissa` (EN), `ロスモンティス`, `ナルシッサ` (JP)
-- **Reference:** [Donmai Wiki](<https://donmai.moe/wiki_pages/rosmontis_(arknights)>), [PRTS](https://prts.wiki/w/%E8%BF%B7%E8%BF%AD%E9%A6%99)
+- **Reference:** [Safebooru Wiki](<https://safebooru.donmai.us/wiki_pages/rosmontis_(arknights)>), [PRTS](https://prts.wiki/w/%E8%BF%B7%E8%BF%AD%E9%A6%99)
 - **Index:** `#10`
 
 ---

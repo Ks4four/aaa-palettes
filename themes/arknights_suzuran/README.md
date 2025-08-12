@@ -3,7 +3,7 @@
 - **Character:** 铃兰
 - **Source:** 明日方舟 / Arknights
 - **Alias:** `丽萨` (Real Name), `Suzuran`, `Lisa` (EN), `スズラン`, `リサ` (JP)
-- **Reference:** [Donmai Wiki](<https://donmai.moe/wiki_pages/suzuran_(arknights)>), [PRTS](https://prts.wiki/w/%E9%93%83%E5%85%B0)
+- **Reference:** [Safebooru Wiki](<https://safebooru.donmai.us/wiki_pages/suzuran_(arknights)>), [PRTS](https://prts.wiki/w/%E9%93%83%E5%85%B0)
 - **Index:** `#2`
 
 ---
