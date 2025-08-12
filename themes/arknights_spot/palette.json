@@ -1,6 +1,7 @@
 {
   "latte": {
     "name": "Latte",
+    "displayName": "spot_(arknights)",
     "emoji": "🌻",
     "order": 0,
     "dark": false,

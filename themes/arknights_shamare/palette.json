@@ -1,6 +1,7 @@
 {
   "frappe": {
     "name": "Frappé",
+    "displayName": "shamare_(arknights)",
     "emoji": "🪴",
     "order": 1,
     "dark": true,

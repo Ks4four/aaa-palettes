@@ -1,6 +1,7 @@
 {
   "mocha": {
     "name": "Mocha",
+    "displayName": "mon3tr_(arknights)",
     "emoji": "🌿",
     "order": 3,
     "dark": true,

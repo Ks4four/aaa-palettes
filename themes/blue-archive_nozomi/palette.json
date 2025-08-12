@@ -1,6 +1,7 @@
 {
   "frappe": {
     "name": "Frappé",
+    "displayName": "nozomi_(blue_archive)",
     "emoji": "🪴",
     "order": 1,
     "dark": true,
