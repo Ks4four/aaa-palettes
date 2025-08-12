@@ -55,3 +55,11 @@
 ## Porting
 
 To see simple porting ideas for common software, please refer to [Porting](docs/PORTING.md).
+
+## Acknowledgements
+
+This project would not be possible without the foundational work of the **Catppuccin**.
+
+All palettes are built upon their well-defined [color specification and naming conventions](https://github.com/catppuccin/catppuccin/blob/main/docs/style-guide/colors.md). Furthermore, the porting documentation and examples leverage Catppuccin's powerful CLI tool, [Whiskers](https://github.com/catppuccin/whiskers).
+
+A huge thank you to the [Catppuccin organization](https://github.com/catppuccin) for creating and maintaining such an incredible and versatile ecosystem.
