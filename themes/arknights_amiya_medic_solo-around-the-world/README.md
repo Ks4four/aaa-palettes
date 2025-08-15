@@ -27,15 +27,11 @@
 | [`contrast-base.json`](./contrast/contrast-base.json)     | Each swatch against **Base** |
 | [`contrast-report.md`](./contrast/contrast-report.md)     | Human-readable summary       |
 
-<!-- 
-TODO: Add reference artwork section when screenshot environment is available
-
 ## Reference Artwork
 
 A picture (or two) used for color sampling.
 
 ![sample](./assets/sample.png) 
--->
 
 ## Porting How-Tos
 
