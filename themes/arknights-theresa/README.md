@@ -13,7 +13,7 @@
 > The first version looked very similar to [Rosé Pine](https://rosepinetheme.com/), so I removed the yellow and added some red to give it a more unique look.
 > The second version wasn't pink enough. To achieve the right shade of pink, I actually needed a darker color, which I adjusted as much as possible while maintaining an acceptable contrast ratio.
 >
-> Since this character is thematically related to the [previous one](../arknights_priestess/README.md), I decided to work on them back-to-back. You could say I made this one "while I was at it."
+> Since this character is thematically related to the [previous one](../arknights-priestess/README.md), I decided to work on them back-to-back. You could say I made this one "while I was at it."
 >
 > Interestingly, the contrast between Base and Subtext0 did not reach 4.5:1. After reviewing the character art again, I decided not to fix it.
 

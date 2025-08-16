@@ -12,7 +12,7 @@
 >
 > The JSON structure design, contrast results, semantic color fine-tuning... it wasn't until this character that a workflow was formed.
 >
-> Interestingly, while this theme is arguably more refined, [Mon3tr](../arknights_mon3tr/README.md)was conceived to be its semantic dark mode counterpart.
+> Interestingly, while this theme is arguably more refined, [Mon3tr](../arknights-mon3tr/README.md)was conceived to be its semantic dark mode counterpart.
 
 ## Palette Files
 
@@ -25,9 +25,9 @@
 
 | File                                             | Description                  |
 | ------------------------------------------------ | ---------------------------- |
-| [`contrast-matrix.json`](./contrast-matrix.json) | All-vs-all contrast ratios   |
-| [`contrast-base.json`](./contrast-base.json)     | Each swatch against **Base** |
-| [`contrast-report.md`](./contrast-report.md)     | Human-readable summary       |
+| [`contrast-matrix.json`](./contrast/contrast-matrix.json) | All-vs-all contrast ratios   |
+| [`contrast-base.json`](./contrast/contrast-base.json)     | Each swatch against **Base** |
+| [`contrast-report.md`](./contrast/contrast-report.md)     | Human-readable summary       |
 
 ## Reference Artwork
  

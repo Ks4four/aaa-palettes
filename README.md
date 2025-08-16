@@ -4,53 +4,53 @@
 
 ## Characters & Palettes
 
-- [Tachibana Nozomi](themes/blue-archive_nozomi/README.md), Blue Archive; Dark theme
+- [Tachibana Nozomi](themes/blue_archive-nozomi/README.md), Blue Archive; Dark theme
 
-  [![nozomi-icon](themes/blue-archive_nozomi/assets/icon.png)![nozomi-strip](themes/blue-archive_nozomi/assets/strip.svg)](themes/blue-archive_nozomi/README.md)
+  [![nozomi-icon](themes/blue_archive-nozomi/assets/icon.png)![nozomi-strip](themes/blue_archive-nozomi/assets/strip.svg)](themes/blue_archive-nozomi/README.md)
 
-- [Mon3tr](themes/arknights_mon3tr/README.md), Arknights; Dark theme
+- [Mon3tr](themes/arknights-mon3tr/README.md), Arknights; Dark theme
 
-  [![mon3tr-icon](themes/arknights_mon3tr/assets/icon.png)![mon3tr-strip](themes/arknights_mon3tr/assets/strip.svg)](themes/arknights_mon3tr/README.md)
+  [![mon3tr-icon](themes/arknights-mon3tr/assets/icon.png)![mon3tr-strip](themes/arknights-mon3tr/assets/strip.svg)](themes/arknights-mon3tr/README.md)
 
-- [Suzuran](themes/arknights_suzuran/README.md), Arknights; Light theme
+- [Suzuran](themes/arknights-suzuran/README.md), Arknights; Light theme
 
-  [![suzuran-icon](themes/arknights_suzuran/assets/icon.png)![suzuran-strip](themes/arknights_suzuran/assets/strip.svg)](themes/arknights_suzuran/README.md)
+  [![suzuran-icon](themes/arknights-suzuran/assets/icon.png)![suzuran-strip](themes/arknights-suzuran/assets/strip.svg)](themes/arknights-suzuran/README.md)
 
-- [Kal'tsit](themes/arknights_kaltsit/README.md), Arknights; Light theme
+- [Kal'tsit](themes/arknights-kaltsit/README.md), Arknights; Light theme
 
-  [![kaltsit-icon](themes/arknights_kaltsit/assets/icon.png)![kaltsit-strip](themes/arknights_kaltsit/assets/strip.svg)](themes/arknights_kaltsit/README.md)
+  [![kaltsit-icon](themes/arknights-kaltsit/assets/icon.png)![kaltsit-strip](themes/arknights-kaltsit/assets/strip.svg)](themes/arknights-kaltsit/README.md)
 
-- [Priestess](themes/arknights_priestess/README.md), Arknights; Dark theme
+- [Priestess](themes/arknights-priestess/README.md), Arknights; Dark theme
 
-  [![priestess-icon](themes/arknights_priestess/assets/icon.png)![priestess-strip](themes/arknights_priestess/assets/strip.svg)](themes/arknights_priestess/README.md)
+  [![priestess-icon](themes/arknights-priestess/assets/icon.png)![priestess-strip](themes/arknights-priestess/assets/strip.svg)](themes/arknights-priestess/README.md)
 
-- [Theresa](themes/arknights_theresa/README.md), Arknights; Light theme
+- [Theresa](themes/arknights-theresa/README.md), Arknights; Light theme
 
-  [![theresa-icon](themes/arknights_theresa/assets/icon.png)![theresa-strip](themes/arknights_theresa/assets/strip.svg)](themes/arknights_theresa/README.md)
+  [![theresa-icon](themes/arknights-theresa/assets/icon.png)![theresa-strip](themes/arknights-theresa/assets/strip.svg)](themes/arknights-theresa/README.md)
 
-- [Shamare](themes/arknights_shamare/README.md), Arknights; Dark theme
+- [Shamare](themes/arknights-shamare/README.md), Arknights; Dark theme
 
-  [![shamare-icon](themes/arknights_shamare/assets/icon.png)![shamare-strip](themes/arknights_shamare/assets/strip.svg)](themes/arknights_shamare/README.md)
+  [![shamare-icon](themes/arknights-shamare/assets/icon.png)![shamare-strip](themes/arknights-shamare/assets/strip.svg)](themes/arknights-shamare/README.md)
 
-- [Spot](themes/arknights_spot/README.md), Arknights; Light theme
+- [Spot](themes/arknights-spot/README.md), Arknights; Light theme
 
-  [![spot-icon](themes/arknights_spot/assets/icon.png)![spot-strip](themes/arknights_spot/assets/strip.svg)](themes/arknights_spot/README.md)
+  [![spot-icon](themes/arknights-spot/assets/icon.png)![spot-strip](themes/arknights-spot/assets/strip.svg)](themes/arknights-spot/README.md)
 
-- [Myrtle (bustling festival)](themes/arknights_myrtle_bustling-festival/README.md), Arknights; Light theme
+- [Myrtle (bustling festival)](themes/arknights-myrtle-bustling_festival/README.md), Arknights; Light theme
 
-  [![myrtle-bustling-festival-icon](themes/arknights_myrtle_bustling-festival/assets/icon.png)![myrtle-bustling-festival-strip](themes/arknights_myrtle_bustling-festival/assets/strip.svg)](themes/arknights_myrtle_bustling-festival/README.md)
+  [![myrtle-bustling-festival-icon](themes/arknights-myrtle-bustling_festival/assets/icon.png)![myrtle-bustling-festival-strip](themes/arknights-myrtle-bustling_festival/assets/strip.svg)](themes/arknights-myrtle-bustling_festival/README.md)
 
-- [Rosmontis](themes/arknights_rosmontis/README.md), Arknights; Light theme
+- [Rosmontis](themes/arknights-rosmontis/README.md), Arknights; Light theme
 
-  [![rosmontis-icon](themes/arknights_rosmontis/assets/icon.png)![rosmontis-strip](themes/arknights_rosmontis/assets/strip.svg)](themes/arknights_rosmontis/README.md)
+  [![rosmontis-icon](themes/arknights-rosmontis/assets/icon.png)![rosmontis-strip](themes/arknights-rosmontis/assets/strip.svg)](themes/arknights-rosmontis/README.md)
 
-- [Sussurro (Travel Freely)](themes/arknights_sussurro_travel-freely/README.md), Arknights; Dark theme
+- [Sussurro (Travel Freely)](themes/arknights-sussurro-travel_freely/README.md), Arknights; Dark theme
 
-  [![sussurro-travel-freely-icon](themes/arknights_sussurro_travel-freely/assets/icon.png)![sussurro-travel-freely-strip](themes/arknights_sussurro_travel-freely/assets/strip.svg)](themes/arknights_sussurro_travel-freely/README.md)
+  [![sussurro-travel-freely-icon](themes/arknights-sussurro-travel_freely/assets/icon.png)![sussurro-travel-freely-strip](themes/arknights-sussurro-travel_freely/assets/strip.svg)](themes/arknights-sussurro-travel_freely/README.md)
 
-- [Amiya (Medic) (Solo Around the World)](themes/arknights_amiya_medic_solo-around-the-world/README.md), Arknights; Dark theme
+- [Amiya (Medic) (Solo Around the World)](themes/arknights-amiya-medic-solo_around_the_world/README.md), Arknights; Dark theme
 
-  [![amiya-medic-solo-around-the-world-arknights-icon](themes/arknights_amiya_medic_solo-around-the-world/assets/icon.png)![amiya-medic-solo-around-the-world-arknights-strip](themes/arknights_amiya_medic_solo-around-the-world/assets/strip.svg)](themes/arknights_amiya_medic_solo-around-the-world/README.md)
+  [![amiya-medic-solo-around-the-world-arknights-icon](themes/arknights-amiya-medic-solo_around_the_world/assets/icon.png)![amiya-medic-solo-around-the-world-arknights-strip](themes/arknights-amiya-medic-solo_around_the_world/assets/strip.svg)](themes/arknights-amiya-medic-solo_around_the_world/README.md)
 
 ## Porting
 
